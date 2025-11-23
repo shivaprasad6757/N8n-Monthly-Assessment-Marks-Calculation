@@ -1,4 +1,4 @@
-# N8n-Monthly-Assessment-Marks-Calculation-using-N8N
+# N8n-Monthly-Assessment-Marks-Calculation
 
 This project automates the monthly assessment evaluation process for students as part of my Automation learning at Innomatics Research Labs. Using n8n, I built a complete workflow that simplifies the calculation of average marks and determines eligibility for placement drives — all without manual intervention.
 
